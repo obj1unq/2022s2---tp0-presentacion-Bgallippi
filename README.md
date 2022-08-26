@@ -6,7 +6,7 @@ Esta práctica está pensada para ir familiarizándose con la plataforma de GitH
 
 Consiste en hacer 2 simples tareas:
 - [ ] **Editar este archivo completando tu nombre**. Para eso basta con 
-  - tocar el lapicito de arriba a la derecha de este archivo ![Selection_201]([https://user-images.githubusercontent.com/4098184/89341982-8096af80-d678-11ea-9248-e70dab4b73f7.png](https://raw.githubusercontent.com/obj1unq/2022s2---tp0-presentacion-Bgallippi/390a24e2be15a2565a1072b66c82835344b09269/descarga.png))
+  - tocar el lapicito de arriba a la derecha de este archivo ![Selection_201]([https://raw.githubusercontent.com/obj1unq/2022s2---tp0-presentacion-Bgallippi/390a24e2be15a2565a1072b66c82835344b09269/descarga.png]())
   - editar el archivo
   - agregar un nombre y descripción al _commit_ (cambio) que vamos a subir. Este paso es opcional pero recomendable.
   - darle al botón de **Commit** para subir los cambios al repositorio.
